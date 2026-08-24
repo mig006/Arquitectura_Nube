@@ -1,0 +1,36 @@
+# ---- Archivos temporales de Microsoft Office ----
+~$*
+*.tmp
+~WRL*.tmp
+*.asd
+*.wbk
+*.xlk
+
+# ---- Windows ----
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---- OneDrive ----
+*.laccdb
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# ---- macOS ----
+.DS_Store
+._*
+
+# ---- Editores ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- Salidas y borradores ----
+/out/
+/build/
+*.log
